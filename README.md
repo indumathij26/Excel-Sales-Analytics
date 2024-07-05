@@ -1,11 +1,11 @@
 # Excel-Sales-Analytics
 ## Sales and Finance Reports
 ## Project Objective:
-**1.** Create Profit and Loss (P&L) Reports By Fiscal Year
-**2.** Create Profit and Loss (P&L) Reports By Months
-**3.** Create Profit and Loss (P&L) By Markets
-**4.** Market Performance and Target Reports[https://github.com/indumathij26/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf]
-**5.** Sales Reports by Sub-Zone
+**1.** Create Profit and Loss (P&L) Reports by [Fiscal Year](https://github.com/indumathij26/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20year.pdf)
+**2.** Create Profit and Loss (P&L) Reports by [Months](https://github.com/indumathij26/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Month.pdf)
+**3.** Create Profit and Loss (P&L) by[ Markets](https://github.com/indumathij26/Excel-Sales-Analytics/blob/main/P%26%20L%20Report%20by%20market.pdf)
+**4.**[ Market Performance and Target Reports](https://github.com/indumathij26/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+**5.** Sales Reports by [Sub-Zone](https://github.com/indumathij26/Excel-Sales-Analytics/blob/main/P%26%20L%20Report%20by%20Sub_Zone.pdf)
 
 ## Purpose of Sales Analytics:
 - Evaluation of Financial Performance: Assess and understand the financial health of the organization.
